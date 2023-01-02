@@ -1,0 +1,14 @@
+<script>
+  function setIframeSrc() {
+    document.getElementById("pdfFrame").src = "http://docs.google.com/gview?url={{ site.commonurl }}/pdf/{{ page.pdf }}&embedded=true";
+  }
+</script>
+
+<a style="text-decoration:underline;" href="{{ site.url }}/pdf/{{ page.pdf }}">
+  Load pdf in full view</a>.
+
+<figure>
+
+  <iframe id="pdfFrame" style="width:720px; height:576px;" frameborder="1" src="{{ site.url }}/pdf/{{ page.pdf }}"></iframe>
+
+</figure>

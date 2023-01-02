@@ -1,0 +1,29 @@
+# Site navigation links
+
+- title: Home
+  url: /
+  include: 'N'
+
+- title: About
+  url: /about/
+  include: 'N'
+
+- title: Vision
+  url: /vision/
+  include: 'N'
+
+- title: Solution
+  url: /solution/
+  include: 'N'
+
+- title: Technology
+  url: /technology/
+  include: 'N'
+
+- title: Business model (NABC)
+  url: /nabc/
+  include: 'N'
+
+- title: Search
+  url: /search/
+  include: 'N'

@@ -1,0 +1,41 @@
+---
+layout: page
+title: Need
+categories: NABC
+excerpt: "The need for soil sensing is driven by economic incentives in reducing the accelerating costs for fuels, fertilizers and other input chemicals, as well as market opportunities arising from soil carbon credits."
+tags:
+  - Need
+  - research
+  - policy
+date: '2023-01-02 10:00'
+modified: '2023-01-02 10:00'
+comments: true
+share: true
+---
+
+Soil is formed over millenia and increasingly recognised as a vital resource. Soil management affects 16 of the 17 Sustainable Development Goals (SDGs) 2030. Soils are the hub for cleaning water and producing food, fodder, fibre and now also fuel for a growing world population. But soil health is declining world-wide. This affects both the soil productivity and generates Greenhouse Gas (GHG) emissions. New methods and policies are required. For producing more food, fodder, fibre and fuel while also preserving, or improving, soil health. The methods for accomplishing this are known: zero (or low) tilling, cover (or dual) crops, agroforestry, use of legumes, adaptive grazing, residue management and exogenous carbon amendments, subsoiling and crop rotation.
+
+## Regenerative precision farming
+
+With the era of cheap fossil fuels nearing its end, escalating soil health decline and dwindling yield per resource input, the shift to new agricultural management methods is becoming increasingly urgent. Empirical results clearly demonstrate that regenerative precision farming starting from the methods listed above for supporting soil health, bring the same yield as classical mechanised high-input management, but at a much lower cost. And with the added benefit of sequestering atmospheric CO<sub>2</sub> and improving soil heath. Farmers adopting regenerative precision farming thus make a larger economic profit while also improving their soils. The bottleneck, or **need** for acquiring regenerative precision farming is information (see the popular article [Why soil measurement is a key challenge for carbon farming](https://www.fwi.co.uk/arable/land-preparation/soils/why-soil-measurement-is-a-key-challenge-for-carbon-farming)). What is needed is information on soil and plant health in (near) real time. Put differently: to minimise the input of machinery, fuel and chemicals, farmers must have control of the soil and plant status to restrict costly (and soil destructing) activities to a minimum. Thus can the farmer produce more grain for less pain.
+
+The need for a solution that can provide (near) real time soil information already exists today. Escalating climate change and carbon emission/reduction pricing is, however, also driving an emerging market for direct soil carbon credits.
+
+## Soil carbon credits
+
+Hitherto soil degeneration has not been reflected in the economic market - soils have largely been de-facto regarded as externalities. Driven by urgent problems with climate warming and famine, the need to preserve, or even improve, soil health is increasingly recognised. Both by local farmers and by policy makers, as well as the stakeholders in the food chain in between. This has paved the way for a new market of soil health in general and soil carbon credits in particular, driven by 3 needs:
+
+1. farmers need to preserve and improve soil health and productivity,
+2. food chain stakeholders (businesses and end consumers) urge to produce and consume healthy, sustainable and climate neutral food and drinks, and
+3. policy makers regulation of carbon emission and GHG emission costs and acquisition credits.
+
+This new market for carbon credits based on soil organic carbon (SOC) requires a cost-effective and robust monitoring and modeling framework. Existing carbon credits for soil sequestration, mainly in North America and Australia, are plagued by regional variations and fears have been raised that the integrity of soil carbon credits is eroding (see the article [Crediting agricultural soil carbon sequestration, by Oldfield et al, 2022](https://www.science.org/doi/abs/10.1126/science.abl7991) published in the journal Science). European countries have not embraced crediting agricultural soil carbon sequestration. Nevertheless, the development of new agricultural technologies promoting SOC formation has captured a large interest and field trials are in place, for instance, in Sweden ([Svensk Kolinagring](https://svenskkolinlagring.se/about-us/)) and Finland ([Baltic Sea Action Group](https://www.bsag.fi/en/home/)).
+
+The European Commission is strongly supporting development of a common European Soil Carbon Credit. That requires a standardised system of certificates, that the Commission envisions being based on a combination of rapid in-situ data collection and remote sensing.
+
+## Soil carbon and climate
+
+Greenhouse gas (GHG) emissions are jeopardizing the stability of Earth’s climate, threatening the sustainability of both existing ecosystems and subsequently human life as we know it. GHG emissions from soils, primarily driven by the metabolism of the soil organic carbon (SOC) stocks and generating carbon dioxide (CO<sub>2</sub>) contribute around 5 % of the global GHG emissions with an estimated gross efflux of ∼60 Gt C per year. It is estimated that the accumulated land cultivation has depleted the global soil carbon stock of 116 Pg of carbon.
+But agricultural soils can also sequester carbon, with estimates or annual potentials ranging from 100 to 1000 kg C per hectare, depending on soil type and management practices. Reversing the flux of carbon across the soil-atmosphere interface and accumulating more SOC while sequestering GHG (carbon or regenerative farming) has major benefits, also for soil fertility and soil health. The recent (2022) IPCC assessment report also points out carbon farming as one of the major pathways for preventing the global temperature rise to exceed 2 centigrades compared to pre-industrial conditions ([chapter 7 - Agriculture, Forestry and Other Land Uses (AFOLU)](https://www.ipcc.ch/report/ar6/wg3/downloads/report/IPCC_AR6_WGIII_Chapter07.pdf)).  
+
+Scientifically validated, cost-efficient and widely applicable, monitoring and modeling frameworks are required in order to identify the effect of different management options and how they affect soil carbon fluxes and stocks. The most promising approach for rapid assessment of soil health and carbon fluxes is soil spectroscopy.
