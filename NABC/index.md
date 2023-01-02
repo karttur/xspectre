@@ -7,7 +7,7 @@ search_omit: true
 
 ## NABC - Need, Approach, Benefit, Competition
 
-xSpectre's business model is developed using the NABC framework, first put forward by the Stanford Research Institute (SRI). We participated in [Linköping University Entrepreneurship and Development (LEAD)](https://www.lead.se/en/) BootUp program during spring 2022. LEAD then used our innovation for a trainee program, [Entrepreneurs in Residence](https://www.lead.se/en/entrepreneur-programs/entrepreneurs-in-residence/), during the autumn of 2022. The report on xSpectre from the trainee program is inlcuded in the links below.
+xSpectre's business model is developed using the NABC framework, first put forward by the Stanford Research Institute (SRI). We participated in [Linköping University Entrepreneurship and Development (LEAD)](https://www.lead.se/en/) BootUp program during spring 2022. LEAD then used our innovation for a trainee program, [Entrepreneurs in Residence](https://www.lead.se/en/entrepreneur-programs/entrepreneurs-in-residence/), during the autumn of 2022. The report on xSpectre from the trainee program is linked below.
 
 <ul class="post-list">
 {% for post in site.categories.NABC reversed %}

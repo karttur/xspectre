@@ -35,7 +35,7 @@ Scientist with 30 years of experience of working with spectral data and modellin
 
 #### Hans Jacobson
 
-![Hans](../../images/hans2.png){: .pull-left}
+![Hans](../images/hans2.png){: .pull-left}
 Worked for 25 years with management of IT groups implementing changes in existing platforms and as a developer of new and innovative web-solutions for spatial data. Created interactive map based web-services through his own company (Starcus AB) and runs the poster mapping site [ateljekartan.com](https://ateljekartan.com). Hans is responsible for the cross platform app and the server side solution.
 <br>
 <br>
