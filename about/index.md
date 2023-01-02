@@ -25,7 +25,7 @@ xSpectre is a private, deep-tech startup company in Stockholm, Sweden. The compa
 
 #### Thomas Gumbricht
 
-![Thomas](../../images/thomas.png){: .pull-left}
+![Thomas](../images/thomas.png){: .pull-left}
 Scientist with 30 years of experience of working with spectral data and modelling for natural resources management. Worked 15 years at different universities (Sweden and South Africa), and 15 years for UN-related research organisations in Africa and Asia. Thomas is the inventor behind the mathematical-geometric modelling framework for translating spectral signals to contents. He is also a skilled craftsman and designs and builds the hardware.
 <br>
 <br>
